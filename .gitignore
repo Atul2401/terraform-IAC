@@ -1,2 +1,5 @@
-## terraform folder 
-.terraform/
+#terraform
+.terraform
+
+#ds-store 
+.DS_Store
